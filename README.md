@@ -6,5 +6,5 @@ Requirements:
 - Youtube playlist id
 
 Manual:
-- Put the Client Secret File to the same folder with the code and rename the file as "client_secret.json". 
+- Put the Client Secret File to the same folder with the code and rename the file as "client_secret.json"
 - Put the Youtube playlist id into the right section of the "playlistId" in the code
